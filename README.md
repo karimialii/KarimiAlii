@@ -172,15 +172,6 @@ mindmap
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-[![GitHub Profile](https://img.shields.io/badge/View_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karimialii)
-[![Repositories](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/karimialii&query=$.public_repos&style=for-the-badge&logo=github&label=Repositories&color=blue)](https://github.com/karimialii?tab=repositories)
-
-</div>
-
 <!--
 If the dynamic stats images below don't load, it may be due to API rate limits or service availability.
 Visit my GitHub profile directly: https://github.com/karimialii
