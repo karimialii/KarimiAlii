@@ -176,14 +176,14 @@ mindmap
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KarimiAlii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimiAlii&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karimialii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimialii&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KarimiAlii&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karimialii&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
@@ -284,6 +284,6 @@ I'm always interested in collaborating on projects related to **data engineering
 
 ### "Transforming energy systems through data-driven innovation" 🌍⚡
 
-![Profile Views](https://komarev.com/ghpvc/?username=KarimiAlii&color=2E9EF7&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=karimialii&color=2E9EF7&style=for-the-badge&label=Profile+Views)
 
 </div>
