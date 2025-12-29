@@ -176,14 +176,32 @@ mindmap
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karimialii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimialii&layout=compact&langs_count=8&theme=tokyonight"/>
+[![GitHub Profile](https://img.shields.io/badge/View_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karimialii)
+[![Repositories](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/karimialii&query=$.public_repos&style=for-the-badge&logo=github&label=Repositories&color=blue)](https://github.com/karimialii?tab=repositories)
+
+</div>
+
+<!--
+If the dynamic stats images below don't load, it may be due to API rate limits or service availability.
+Visit my GitHub profile directly: https://github.com/karimialii
+-->
+
+<div align="center">
+
+<a href="https://github.com/karimialii">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karimialii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+</a>
+<a href="https://github.com/karimialii">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimialii&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karimialii&theme=tokyonight)](https://git.io/streak-stats)
+<a href="https://github.com/karimialii">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karimialii&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</a>
 
 </div>
 
